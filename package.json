@@ -1,0 +1,19 @@
+{
+  "name": "testxv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "xv src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xv": "^1.1.1"
+  },
+  "dependencies": {
+    "lowdb": "^3.0.0"
+  }
+}
